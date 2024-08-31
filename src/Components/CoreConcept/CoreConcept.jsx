@@ -1,4 +1,4 @@
-
+import './CoreConcept.css'
 
 export function CoreConcept({ image ,  description,title }) {
   return (
